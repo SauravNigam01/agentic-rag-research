@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+arxiv
+httpx
+python-dotenv
+sentence-transformers
+groq
